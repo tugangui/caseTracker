@@ -1,11 +1,5 @@
 # caseTracker
 
-### Run on Colab:
-1. Open the `caseTracker.ipynb` file
-2. Click the `Open in Colab` button
-3. Click the Play button to the left of the code cell
-4. Files will be in the main directory (click on File icon in the left sidebar)
-
 ### Run on local machine:
 
 Before you start, you'll need the following:
@@ -27,3 +21,11 @@ Run the program
 `python casetracker.py {targetDirectory}`
 
 Ex: `python casetracker.py /Users/Jean/Documents`
+
+
+### Run on Colab:
+1. Open the `caseTracker.ipynb` file
+2. Click the `Open in Colab` button
+3. Download the current version of the case tracker from Google drive and place in the `/content` folder (click on File icon in the left sidebar)
+3. Click the Play button to the left of the code cell
+4. Files will generated in the `/content` folder
