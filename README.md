@@ -25,4 +25,5 @@ API Setup
 Run the program
 
 `python casetracker.py {targetDirectory}`
+
 Ex: `python casetracker.py /Users/Jean/Documents`
