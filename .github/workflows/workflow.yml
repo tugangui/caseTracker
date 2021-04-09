@@ -1,0 +1,26 @@
+
+
+
+name: Execute notebook
+
+on: [push]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: run-notebook
+      uses: actions/setup-python@v1
+    - uses: yaananth/run-notebook@v1
+      with:
+        notebook: "caseTracker.ipynb"
+        isReport: False
+        poll: True
+    - uses: actions/upload-artifact@master
+      if: always()
+      with:
+        name: output
+        path: ${{ RUNNER.temp }}/nb-runner
+      env:
+        RUNNER: ${{ toJson(runner) }}
