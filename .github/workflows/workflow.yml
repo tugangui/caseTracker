@@ -15,6 +15,7 @@ jobs:
     - uses: yaananth/run-notebook@v1
       with:
         notebook: "caseTracker.ipynb"
+        params: ""
         isReport: False
         poll: True
     - uses: actions/upload-artifact@master
