@@ -3,7 +3,7 @@ name: Run caseTracker.py
 on: 
   push:
   schedule:
-    - cron: "0 9 * * 1" #runs at 9am every Monday
+    - cron: "0 4 * * 0" #runs at 4am every Sunday
 
 jobs:
   build:
