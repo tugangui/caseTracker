@@ -1,8 +1,9 @@
 name: Run caseTracker.py
     
-on: [push]
-  #schedule:
-    #- cron: "*/2 * * * *" #runs at 9am every Monday
+on: 
+  push:
+  schedule:
+    - cron: "0 9 * * 1" #runs at 9am every Monday
 
 jobs:
   build:
@@ -33,3 +34,16 @@ jobs:
           git add casetracker.sql 
           git commit -m "New casetracker.sql"
           git push
+      
+      - name: Push file to mysql repo
+        uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: 'casetracker.sql'
+          destination_repo: 'tugangui/test'
+          destination_folder: '/'
+          user_email: 'tugangui@g.ucla.edu'
+          user_name: 'tugangui'
+          commit_message: 'New casetracker.sql'
+
