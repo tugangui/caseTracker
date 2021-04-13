@@ -41,7 +41,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source_file: 'casetracker.sql'
-          destination_repo: 'tugangui/test'
+          destination_repo: 'seitay/mysql_queries'
           destination_folder: '/'
           user_email: 'tugangui@g.ucla.edu'
           user_name: 'tugangui'
