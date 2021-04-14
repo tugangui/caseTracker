@@ -10,10 +10,8 @@ Before you start, you'll need the following:
 API Setup
 
 * Login to your gmail account and visit the [Google Sheets API QuickStart Guide for Python](https://developers.google.com/sheets/api/quickstart/python)
-* Click the blue `Enable Google Sheets API` button
-* Select the `Desktop App` and click `Create`
-* Click the blue `DOWNLOAD CLIENT CONFIGURATION` button
-* Move `credentials.json` to the work directory. 
+* Complete the prequisites.
+* Rename the credentials JSON file to `credentials.json` and move to the work directory.
 * Install Google's client library `pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib`
 
 Run the program
