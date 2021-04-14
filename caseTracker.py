@@ -82,7 +82,6 @@ RF1 = parseSheetData('RF1 (HPF)', 14, 29)
 BLA = parseSheetData('BLA project', 4, 29)
 
 SURGEON_COLS = [9,7,8,8,7,7,8]
-
 tabs = [U01, U19_Salk, U19_CSHL, MCP, bg, RF1, BLA]
 
 distinctCases = pd.DataFrame()
@@ -162,7 +161,7 @@ query = query + "INSERT INTO users(user_name, email, user_group, is_active) VALU
 #insert into animals + tissueDissections
 for row in distinctCasesSurgeons.itertuples(index=False):
     casePrefix = get_organism_id(row[0][:2])
-    query = query + "INSERT INTO animals (organism_id) SELECT " + str(casePrefix) + " FROM tissueDissections WHERE NOT EXISTS(SELECT NULL FROM tissueDissections td WHERE td.tissue_code='" + row[0] + "') LIMIT 1;\n"
+    query = query + "INSERT INTO animals (organism_id, project_id) SELECT " + str(casePrefix) + ", 1 FROM tissueDissections WHERE NOT EXISTS(SELECT NULL FROM tissueDissections td WHERE td.tissue_code='" + row[0] + "') LIMIT 1;\n"
     query = query + "INSERT IGNORE INTO tissueDissections (tissue_code, tissue_name, description, animal_id) VALUES ('" + row[0] +"', 'brain', 'brain', LAST_INSERT_ID());\n"
 
 # insert into surgeries
