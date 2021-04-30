@@ -47,4 +47,8 @@ jobs:
           user_email: 'tugangui@g.ucla.edu'
           user_name: 'tugangui'
           commit_message: 'New casetracker.sql'
-
+      - name: Slack 
+        uses: craftech-io/slack-action@v1
+        with:
+          slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
+        if: always()
