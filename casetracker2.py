@@ -389,7 +389,7 @@ f = open(OUTPUT_PATH +"/casetracker.sql", "w")
 query = "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (17, 'mouse', 'Parvalbumin-Cre', 'transgenic', 'Parvalbumin (PV)', 'These mice selectively express Cre recombinase in PV expressing cells', 'P');\n"
 query = query + "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (18, 'mouse', 'Vasoactive Intestinal Peptide-Cre', 'transgenic', 'Vasoactive Intestinal Peptide (VIP)', 'These mice selectively express Cre recombinase in VIP expressing cells', 'P');\n"
 query = query + "INSERT INTO users(user_name, email, user_group, is_active) VALUES('Lei Gao', 'LeiGao@mednet.ucla.edu',4, 1 )ON DUPLICATE KEY UPDATE email='LeiGao@mednet.ucla.edu';\n"
-query = query + "create trigger after_injectionSites_insert after insert on injectionSites for each row insert into injectionSitesLocations(injection_sites_id) values(new.id);"
+query = query + "CREATE TRIGGER after_injectionSites_insert AFTER INSERT ON injectionSites FOR EACH ROW INSERT INTO injectionSitesLocations(injection_sites_id, types) values(new.id, 'target'), (NEW.id, 'actual');"
 
 for id, info in project.items():
   case_prefix = get_organism_id(id[:2])
