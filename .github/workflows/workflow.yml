@@ -24,7 +24,7 @@ jobs:
       - name: Execute .py script # run the run.py to get the latest data
         run: |
           python casetracker2.py ./
-          python casetracker.py ./
+          python caseTracker.py ./
 
       - name: Commit files
         id: commit
