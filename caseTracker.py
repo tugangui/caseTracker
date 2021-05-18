@@ -152,7 +152,7 @@ def get_organism_id(argument):
     return switcher.get(argument, 1)
 
 cases = pd.Series(distinctCases.iloc[:,0])
-f = open(OUTPUT_PATH + "/casetracker.sql", "w")
+f = open(OUTPUT_PATH + "/casetracker_surgeries_only.sql", "w")
 
 query = "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (17, 'mouse', 'Parvalbumin-Cre', 'transgenic', 'Parvalbumin (PV)', 'These mice selectively express Cre recombinase in PV expressing cells', 'P');\n"
 query = query + "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (18, 'mouse', 'Vasoactive Intestinal Peptide-Cre', 'transgenic', 'Vasoactive Intestinal Peptide (VIP)', 'These mice selectively express Cre recombinase in VIP expressing cells', 'P');\n"
