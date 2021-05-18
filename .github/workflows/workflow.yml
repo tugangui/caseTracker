@@ -40,7 +40,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'casetracker.sql'
+          source_file: 'casetracker2.sql'
           destination_branch: 'master'
           destination_repo: 'seitay/mysql_queries'
           destination_folder: '/'
