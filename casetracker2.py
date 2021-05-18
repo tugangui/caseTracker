@@ -331,7 +331,6 @@ def process(df, name, project, save=False):
     df.columns = cols
     prepped_df = prepare_df(df)
     good_df = prepped_df.set_index(['case'])
-    good_df.to_csv('/good_csv.csv')
     project_dict = get_project_dict(good_df, project)
     
     if save:
@@ -385,7 +384,7 @@ def get_organism_id(argument):
     }
     return switcher.get(argument, '1')
 
-f = open("/casetracker.sql", "w")
+f = open(OUTPUT_PATH +"/casetracker.sql", "w")
 
 query = "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (17, 'mouse', 'Parvalbumin-Cre', 'transgenic', 'Parvalbumin (PV)', 'These mice selectively express Cre recombinase in PV expressing cells', 'P');\n"
 query = query + "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (18, 'mouse', 'Vasoactive Intestinal Peptide-Cre', 'transgenic', 'Vasoactive Intestinal Peptide (VIP)', 'These mice selectively express Cre recombinase in VIP expressing cells', 'P');\n"
