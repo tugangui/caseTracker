@@ -23,7 +23,7 @@ jobs:
           pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
       - name: Execute .py script # run the run.py to get the latest data
         run: |
-          python caseTracker.py ./
+          python caseTracker2.py ./
 
       - name: Commit files
         id: commit
@@ -40,7 +40,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'casetracker2.sql'
+          source_file: 'casetracker.sql'
           destination_branch: 'master'
           destination_repo: 'seitay/mysql_queries'
           destination_folder: '/'
