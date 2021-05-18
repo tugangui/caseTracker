@@ -143,7 +143,7 @@ BLA_COLS = ("count", "case", "strategy", "tracer", "desired", "target", "actual"
           "vsi_path", "osp_path", "image_tech", "dimension", "registration", "threshold",
           "overlap", "qa_by")
 
-COLUMNS = {'U01 ': U01_COLS, U19 CSHL': CSHL_COLS, 'U19 Salk Institute': U19_COLS, 'MCP': MCP_COLS, 
+COLUMNS = {'U01 ': U01_COLS, 'U19 CSHL': CSHL_COLS, 'U19 Salk Institute': U19_COLS, 'MCP': MCP_COLS, 
            'Basal Ganglia': BG_COLS, 'RF1 (HPF)': RF1_COLS, 'BLA project': BLA_COLS}
 
 SKIPROWS = {'U01 ': 8, 'U19 CSHL': 8, 'U19 Salk Institute': 6, 'MCP': 7,
