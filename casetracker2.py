@@ -14,20 +14,66 @@ import re
 import json
 from collections import OrderedDict
 
-# Mount the drive
-from google.colab import drive
-drive.mount('/content/drive')
+import pandas as pd
+import numpy as np
+import sys
 
-from google.colab import auth
-auth.authenticate_user()
+import pickle
+import os.path
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
 
-import gspread
-from oauth2client.client import GoogleCredentials
-gc = gspread.authorize(GoogleCredentials.get_application_default())
+from googleapiclient.discovery import build
 
-tabs = ['/content/U19.csv']
+OUTPUT_PATH = sys.argv[1]
+
+def pull_sheet_data(SCOPES,SPREADSHEET_ID,RANGE_NAME):
+    creds = gsheet_api_check(SCOPES)
+    service = build('sheets', 'v4', credentials=creds)
+    sheet = service.spreadsheets()
+    result = sheet.values().get(
+        spreadsheetId=SPREADSHEET_ID,
+        range=RANGE_NAME).execute()
+    values = result.get('values', [])
+    
+    if not values:
+        print('No data found.')
+    else:
+        rows = sheet.values().get(spreadsheetId=SPREADSHEET_ID,
+                                  range=RANGE_NAME).execute()
+        data = rows.get('values')
+        print("COMPLETE: Data copied")
+        return data
+
+def gsheet_api_check(SCOPES):
+    creds = None
+    if os.path.exists('token.pickle'):
+        with open('token.pickle', 'rb') as token:
+            creds = pickle.load(token)    
+    
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+        else:
+            flow = InstalledAppFlow.from_client_secrets_file(
+                'credentials.json', SCOPES)
+            creds = flow.run_local_server(port=0)  
+
+            with open('token.pickle', 'wb') as token:
+              pickle.dump(creds, token)
+              
+    return creds
+
+
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
+SPREADSHEET_ID = '1N3Hokc0vnnnVNJdbYiLleEjnS0T0zPEXiMjWxpdZKXw'
+
+def parseSheetData(tab):
+  print(tab)
+  data = pull_sheet_data(SCOPES, SPREADSHEET_ID, tab)
+  return pd.DataFrame(data)
+
 output_file = './u19_salk_parsed.json'
-project_name = 'U19 Salk'
 
 # Regex
 ID_PATTERN = re.compile(r'[A-Z]{2}[0-9]{6}-[0-9]{2}')
@@ -312,10 +358,16 @@ def get_usernames(argument):
     return switcher.get(argument, "Lin Gou")
 
 TRACKERS = {}
-for name, col in COLUMNS.items():
-  print(name)
-  worksheet = gc.open('Copy of Hongwei Dong lab case tracker.xlsx').worksheet(name)
-  TRACKERS[name] = pd.DataFrame.from_records(worksheet.get_all_values())
+
+U01 = parseSheetData('U01')
+U19_Salk = parseSheetData('U19 Salk Institute')
+U19_CSHL = parseSheetData('U19 CSHL')
+MCP = parseSheetData('MCP')
+bg = parseSheetData('Basal Ganglia')
+RF1 = parseSheetData('RF1 (HPF)')
+BLA = parseSheetData('BLA project')
+
+TRACKERS = {'U19 CSHL': U19_CSHL, 'U19 Salk Institute': U19_Salk, 'MCP': MCP, 'Basal Ganglia': bg, 'RF1 (HPF)': RF1, 'BLA project': BLA}
 
 project = {}
 for name, tracker in TRACKERS.items():
