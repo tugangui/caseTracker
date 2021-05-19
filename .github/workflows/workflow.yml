@@ -23,7 +23,7 @@ jobs:
           pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
       - name: Execute .py script # run the run.py to get the latest data
         run: |
-          python casetracker2.py ./
+          python casetracker.py ./
 
       - name: Commit files
         id: commit
@@ -32,7 +32,7 @@ jobs:
           git config --global user.email "tugangui@g.ucla.edu"
 
           git add *
-          git commit -m "New casetracker SQL files"
+          git commit -m "New casetracker SQL file"
           git push
       
       - name: Push file to mysql repo
@@ -40,31 +40,13 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'casetracker_surgeries_only.sql'
+          source_file: 'casetracker.sql'
           destination_branch: 'master'
           destination_repo: 'seitay/mysql_queries'
           destination_folder: '/'
           user_email: 'tugangui@g.ucla.edu'
           user_name: 'tugangui'
-          commit_message: 'New casetracker_surgeries_only.sql'
-      - name: Slack 
-        uses: craftech-io/slack-action@v1
-        with:
-          slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
-        if: always()
-        
-      - name: Push file to mysql repo
-        uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-        with:
-          source_file: 'casetracker_with_injections.sql'
-          destination_branch: 'master'
-          destination_repo: 'seitay/mysql_queries'
-          destination_folder: '/'
-          user_email: 'tugangui@g.ucla.edu'
-          user_name: 'tugangui'
-          commit_message: 'New casetracker_with_injections.sql'
+          commit_message: 'New casetracker SQL file'
       - name: Slack 
         uses: craftech-io/slack-action@v1
         with:
