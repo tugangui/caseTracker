@@ -23491,7 +23491,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-5-27",
+            "perfusion_date": "2021-5-25",
             "strategy": "",
             "injections": [
                 {
@@ -23567,7 +23567,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-5-27",
+            "perfusion_date": "2021-5-25",
             "strategy": "",
             "injections": [
                 {
@@ -23643,7 +23643,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-5-27",
+            "perfusion_date": "2021-5-25",
             "strategy": "",
             "injections": [
                 {
@@ -23719,7 +23719,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-5-27",
+            "perfusion_date": "2021-5-25",
             "strategy": "",
             "injections": [
                 {
@@ -23795,7 +23795,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-5-27",
+            "perfusion_date": "2021-5-25",
             "strategy": "",
             "injections": [
                 {
@@ -23871,7 +23871,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-5-27",
+            "perfusion_date": "2021-5-25",
             "strategy": "",
             "injections": [
                 {
@@ -25786,7 +25786,7 @@
     },
     "SW210509-06": {
         "case_name": "SW210509-06",
-        "notes": "\ncase_col_notes: Hongwei planned\ncase_col_notes: 5/23\ncase_col_notes: 5/23\ncase_col_notes: Yian planned\ncase_col_notes: 5/23\ncase_col_notes: 5/23\ntrio_col_notes: Hongwei plan for Lei\ntrio_col_notes: To examine Cell Types in PERI/ECT/TEa\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG",
+        "notes": "\ncase_col_notes: Hongwei planned",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25844,7 +25844,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210523-01": {
+        "case_name": "SW210523-01",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-1",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "DGpo",
                     "target_coords": "(2.5, -3.58, 4.5)",
@@ -25896,7 +25933,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210523-02": {
+        "case_name": "SW210523-02",
+        "notes": "\ncase_col_notes: Yian planned",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-1",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "DGpo",
                     "target_coords": "(2.5, -3.58, 4.5)",
@@ -25948,7 +26022,44 @@
                         "name": "CTb 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210523-03": {
+        "case_name": "SW210523-03",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-1",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "PMd",
                     "target_coords": "(0.5, -2.155, 5.75)",
@@ -26000,7 +26111,44 @@
                         "name": "CTb 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210523-04": {
+        "case_name": "SW210523-04",
+        "notes": "\ntrio_col_notes: Hongwei plan for Lei",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-1",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "PMv",
                     "target_coords": "(0.5, -2.155, 6.25)",
@@ -26052,7 +26200,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-01": {
+        "case_name": "SW210526-01",
+        "notes": "\nTo examine Cell Types in PERI/ECT/TEa",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "MOs",
                     "target_coords": "(1.0, 2.845, 0.5)",
@@ -26104,7 +26289,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-02": {
+        "case_name": "SW210526-02",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "MOs",
                     "target_coords": "(1.0, 2.845, 0.5)",
@@ -26156,7 +26378,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-03": {
+        "case_name": "SW210526-03",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "CP",
                     "target_coords": "(2.5, -0.655, 3.0)",
@@ -26208,7 +26467,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-04": {
+        "case_name": "SW210526-04",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "CP",
                     "target_coords": "(2.5, -0.655, 3.0)",
@@ -26260,7 +26556,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-05": {
+        "case_name": "SW210526-05",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "ENTl",
                     "target_coords": "(4.5, -4.555, 3.0)",
@@ -26312,7 +26645,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-06": {
+        "case_name": "SW210526-06",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "ENTl",
                     "target_coords": "(4.5, -4.555, 3.0)",
@@ -26364,7 +26734,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-07": {
+        "case_name": "SW210526-07",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "RH",
                     "target_coords": "(0.5, -1.555, 4.5)",
@@ -26416,7 +26823,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-08": {
+        "case_name": "SW210526-08",
+        "notes": "",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "LP/SGN",
                     "target_coords": "(2.0, -3.18, 3.0)",
@@ -26468,7 +26912,44 @@
                         "name": "CTB 647",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210526-09": {
+        "case_name": "SW210526-09",
+        "notes": "\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG",
+        "surgery": {
+            "planned_for": "lei",
+            "surgeon": "lei",
+            "perfusion_date": "21-6-3",
+            "strategy": "",
+            "injections": [
                 {
                     "target_loc": "PO",
                     "target_coords": "(1.25, -2.155, 3.5)",
@@ -54209,7 +54690,7 @@
     },
     "SW210518-04": {
         "case_name": "SW210518-04",
-        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54332,7 +54813,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210524-01": {
+        "case_name": "SW210524-01",
+        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "CA1vv",
                     "target_coords": "(3, -3.18, -5.3)",
@@ -54371,7 +54889,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210524-02": {
+        "case_name": "SW210524-02",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "CA1vv",
                     "target_coords": "(3, -3.18, -5.3)",
@@ -54488,7 +55043,120 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210524-03": {
+        "case_name": "SW210524-03",
+        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
+                {
+                    "target_loc": "CA1vv",
+                    "target_coords": "(3, -3.18, -5.3)",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV8-hSyn-FLEX-TVA-P2A-GFP-2A-oG",
+                        "notes": ""
+                    }
                 },
+                {
+                    "target_loc": "CA1vv",
+                    "target_coords": "(3, -3.18, -5.3)",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "EnvA G-deleted rabies RVdG-4mCherry",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "SUBdv",
+                    "target_coords": "(3.8, -4.08, -4.3)",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAVretro-EF1a-Cre",
+                        "notes": ""
+                    }
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210524-04": {
+        "case_name": "SW210524-04",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "CA1vv",
                     "target_coords": "(3, -3.18, -5.3)",
@@ -54594,45 +55262,6 @@
                     }
                 },
                 {
-                    "target_loc": "SUBdv",
-                    "target_coords": "(3.8, -4.08, -4.3)",
-                    "actual_loc": "",
-                    "actual_coords": "",
-                    "adjust_loc": "",
-                    "adjust_coords": "",
-                    "quality": "",
-                    "tracer": {
-                        "name": "AAVretro-EF1a-Cre",
-                        "notes": ""
-                    }
-                },
-                {
-                    "target_loc": "CA1vv",
-                    "target_coords": "(3, -3.18, -5.3)",
-                    "actual_loc": "",
-                    "actual_coords": "",
-                    "adjust_loc": "",
-                    "adjust_coords": "",
-                    "quality": "",
-                    "tracer": {
-                        "name": "AAV8-hSyn-FLEX-TVA-P2A-GFP-2A-oG",
-                        "notes": ""
-                    }
-                },
-                {
-                    "target_loc": "CA1vv",
-                    "target_coords": "(3, -3.18, -5.3)",
-                    "actual_loc": "",
-                    "actual_coords": "",
-                    "adjust_loc": "",
-                    "adjust_coords": "",
-                    "quality": "",
-                    "tracer": {
-                        "name": "EnvA G-deleted rabies RVdG-4mCherry",
-                        "notes": ""
-                    }
-                },
-                {
                     "target_loc": "CA1vv",
                     "target_coords": "(3, -3.18, -5.3)",
                     "actual_loc": "",
@@ -54644,7 +55273,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210524-05": {
+        "case_name": "SW210524-05",
+        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
@@ -54683,7 +55349,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210524-06": {
+        "case_name": "SW210524-06",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
@@ -54800,7 +55503,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210525-01": {
+        "case_name": "SW210525-01",
+        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
@@ -54839,7 +55579,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210525-02": {
+        "case_name": "SW210525-02",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
@@ -54956,7 +55733,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210525-03": {
+        "case_name": "SW210525-03",
+        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
@@ -54995,7 +55809,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210525-04": {
+        "case_name": "SW210525-04",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
@@ -55112,7 +55963,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210525-05": {
+        "case_name": "SW210525-05",
+        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
@@ -55151,7 +56039,44 @@
                         "name": "AAVretro-EF1a-Cre",
                         "notes": ""
                     }
-                },
+                }
+            ]
+        },
+        "section": {
+            "plane": null,
+            "thickness": "",
+            "sectioning_date": null,
+            "sectioning_tech": ""
+        },
+        "stain": {
+            "staining_date": null,
+            "staining_tech": "",
+            "immunostained_for": ""
+        },
+        "mount": {
+            "mounting_date": null,
+            "mounting_tech": ""
+        },
+        "image_process": {
+            "vsi_path": "",
+            "osp_path": "",
+            "image_tech": "",
+            "dimension": "",
+            "qa_by": ""
+        },
+        "scan": {
+            "quality": ""
+        }
+    },
+    "SW210525-06": {
+        "case_name": "SW210525-06",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "surgery": {
+            "planned_for": "lin",
+            "surgeon": "lin",
+            "perfusion_date": null,
+            "strategy": "TRIO",
+            "injections": [
                 {
                     "target_loc": "SUBvv",
                     "target_coords": "(3.0, -3.455, -5.25)",
