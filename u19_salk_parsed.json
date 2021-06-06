@@ -19184,7 +19184,7 @@
     },
     "SW200210-04": {
         "case_name": "SW200210-04",
-        "notes": "\nsurgeon: Lei\ncase_col_notes: Can use SW191209-01 from BLA project tab\nsurgeon: Lei\ncase_col_notes: Can use SW191209-02 from BLA project tab\ncase_col_notes: Can use SW191209-03 from BLA project tab\ncase_col_notes: Can use SW191209-04 from BLA project tab\ncase_col_notes: Can use SW191209-05 from BLA project tab\ncase_col_notes: Can use SW191212-07 from BLA project tab\ncase_col_notes: Houri planned for ENTl\ncase_col_notes: Houri planned for ENTl\ncase_col_notes: Houri planned for ENTl\ncase_col_notes: Houri planned for ENTl\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\ncase_col_notes: Q4 2020 (progress report due 01/07/2021)\ncase_col_notes: 7 triple anterograde; 12 quadruple retrograde",
+        "notes": "\nsurgeon: Lei\ncase_col_notes: Can use SW191209-01 from BLA project tab\nsurgeon: Lei\ncase_col_notes: Can use SW191209-02 from BLA project tab\ncase_col_notes: Can use SW191209-03 from BLA project tab\ncase_col_notes: Can use SW191209-04 from BLA project tab\ncase_col_notes: Can use SW191209-05 from BLA project tab\ncase_col_notes: Can use SW191212-07 from BLA project tab\ncase_col_notes: Houri planned for ENTl\ncase_col_notes: Houri planned for ENTl\ncase_col_notes: Houri planned for ENTl\ncase_col_notes: Houri planned for ENTl\nfixed frozen; sectioned on a cryostat\nplane: C\nthickness: 100, 20\nsectioning_date: 27 May 2021\nsectioning_tech: Ellen\nimmunostained_for: Rt anti-DARPP-32 1:1K; Rb anti-PHAL 1:1K\nstaining_date: 27 May 2021\nstaining_tech: Ellen\nmounting_date: 31 May 2021\nmounting_tech: Ellen\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\nfixed frozen; sectioned on a cryostat\nplane: C\nthickness: 100, 20\nsectioning_date: 27 May 2021\nsectioning_tech: Ellen\nimmunostained_for: Rt anti-DARPP-32 1:1K; Rb anti-PHAL 1:1K\nstaining_date: 27 May 2021\nstaining_tech: Ellen\nmounting_date: 31 May 2021\nmounting_tech: Ellen\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\nplane: C\nthickness: 100\nsectioning_date: 20 May 2021\nsectioning_tech: Ellen\nimmunostained_for: Rt anti-DARPP-32 1:1K; Rb anti-PHAL 1:1K\nstaining_date: 21 May 2021\nstaining_tech: Ellen\nmounting_date: 31 May 2021\nmounting_tech: Ellen\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\nplane: C\nthickness: 100\nsectioning_date: 20 May 2021\nsectioning_tech: Ellen\nimmunostained_for: Rt anti-DARPP-32 1:1K; Rb anti-PHAL 1:1K\nstaining_date: 21 May 2021\nstaining_tech: Ellen\nmounting_date: 31 May 2021\nmounting_tech: Ellen\ncase_col_notes: Ask Houri for details\ncase_col_notes: Houri planned slightly different for BLAa paper\ncase_col_notes: Q4 2020 (progress report due 01/07/2021)\ncase_col_notes: 7 triple anterograde; 12 quadruple retrograde",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "Lei",
@@ -83851,18 +83851,18 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-5-26",
             "sectioning_tech": ""
         },
         "stain": {
-            "staining_date": null,
+            "staining_date": "2021Ru-5-27",
             "staining_tech": "",
-            "immunostained_for": ""
+            "immunostained_for": "Nissal"
         },
         "mount": {
-            "mounting_date": null,
+            "mounting_date": "2021Inga-5-27",
             "mounting_tech": ""
         },
         "image_process": {
@@ -83940,18 +83940,18 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-5-26",
             "sectioning_tech": ""
         },
         "stain": {
-            "staining_date": null,
+            "staining_date": "2021Ru-5-27",
             "staining_tech": "",
-            "immunostained_for": ""
+            "immunostained_for": "Nissal"
         },
         "mount": {
-            "mounting_date": null,
+            "mounting_date": "2021Ru-5-27",
             "mounting_tech": ""
         },
         "image_process": {
@@ -84029,18 +84029,18 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-5-26",
             "sectioning_tech": ""
         },
         "stain": {
-            "staining_date": null,
+            "staining_date": "2021Ru-5-27",
             "staining_tech": "",
-            "immunostained_for": ""
+            "immunostained_for": "Nissal"
         },
         "mount": {
-            "mounting_date": null,
+            "mounting_date": "2021Ru-5-27",
             "mounting_tech": ""
         },
         "image_process": {
@@ -84118,15 +84118,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-5-26",
             "sectioning_tech": ""
         },
         "stain": {
-            "staining_date": null,
+            "staining_date": "2021Ru-5-27",
             "staining_tech": "",
-            "immunostained_for": ""
+            "immunostained_for": "Nissal"
         },
         "mount": {
             "mounting_date": null,
