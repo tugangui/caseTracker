@@ -24896,7 +24896,7 @@
     },
     "SW210421-04": {
         "case_name": "SW210421-04",
-        "notes": "\nQuadruple retrograde\nplane: Yian\nthickness: 100um\ncase_col_notes: Hongwei planned for Lei\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: Hongwei planned for Lei\ntrio_col_notes: Quadruple retrograde\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/10/21\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
+        "notes": "\nQuadruple retrograde\nplane: Yian\nthickness: 100um\ncase_col_notes: Hongwei planned for Lei\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: Hongwei planned for Lei\ntrio_col_notes: Quadruple retrograde\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/8/21\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "Lei",
@@ -25063,7 +25063,7 @@
     },
     "SW210520-05": {
         "case_name": "SW210520-05",
-        "notes": "\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/10/21\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
+        "notes": "\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/8/21\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -26235,7 +26235,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26324,7 +26324,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26413,7 +26413,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26502,7 +26502,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26591,7 +26591,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26680,7 +26680,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26769,7 +26769,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26858,7 +26858,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -26947,7 +26947,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "21-6-3",
+            "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
                 {
@@ -53928,7 +53928,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54004,7 +54004,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54158,7 +54158,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54234,7 +54234,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54388,7 +54388,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54464,7 +54464,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54618,7 +54618,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54694,7 +54694,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -82174,7 +82174,7 @@
     },
     "SW210422-01": {
         "case_name": "SW210422-01",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian\ncase_col_notes: (Lei, maybe do not use FG and CTb647; just use red and green rabies)",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian\ncase_col_notes: (Lei, maybe do not use FG and CTb647; just use red and green rabies)",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82263,7 +82263,7 @@
     },
     "SW210422-02": {
         "case_name": "SW210422-02",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82352,7 +82352,7 @@
     },
     "SW210422-03": {
         "case_name": "SW210422-03",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82441,7 +82441,7 @@
     },
     "SW210422-04": {
         "case_name": "SW210422-04",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82530,7 +82530,7 @@
     },
     "SW210422-05": {
         "case_name": "SW210422-05",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82619,7 +82619,7 @@
     },
     "SW210422-06": {
         "case_name": "SW210422-06",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/13/2021\nYian\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: Double coinjections in the LS\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82708,7 +82708,7 @@
     },
     "SW210426-01": {
         "case_name": "SW210426-01",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82797,7 +82797,7 @@
     },
     "SW210426-02": {
         "case_name": "SW210426-02",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82886,7 +82886,7 @@
     },
     "SW210426-03": {
         "case_name": "SW210426-03",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -82975,7 +82975,7 @@
     },
     "SW210426-04": {
         "case_name": "SW210426-04",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -83064,7 +83064,7 @@
     },
     "SW210426-05": {
         "case_name": "SW210426-05",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -83153,7 +83153,7 @@
     },
     "SW210426-06": {
         "case_name": "SW210426-06",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/17/2021\nplane: C\nthickness: 100\nsectioning_tech: Yian\ntrio_col_notes: For MEA project\ncase_col_notes: Hongwei Planned for Lei/Yian",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -83259,7 +83259,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-6-7",
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -83348,7 +83348,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-6-7",
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -83437,7 +83437,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-6-7",
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -83526,7 +83526,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-6-7",
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -83615,7 +83615,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-6-7",
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -83704,7 +83704,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": "2021-6-7",
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -84149,7 +84149,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -84238,7 +84238,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -84327,7 +84327,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -84416,7 +84416,7 @@
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
-            "perfusion_date": null,
+            "perfusion_date": "2021-6-8",
             "strategy": "TRIO",
             "injections": [
                 {
