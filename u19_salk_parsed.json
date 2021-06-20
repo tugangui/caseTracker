@@ -54848,7 +54848,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -54924,7 +54924,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55078,7 +55078,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55154,7 +55154,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55308,7 +55308,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55384,7 +55384,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55538,7 +55538,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55614,7 +55614,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55768,7 +55768,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55844,7 +55844,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -55998,7 +55998,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -56074,7 +56074,7 @@
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
-            "perfusion_date": null,
+            "perfusion_date": "2021-06-14",
             "strategy": "TRIO",
             "injections": [
                 {
@@ -82552,7 +82552,7 @@
                 },
                 {
                     "target_loc": "LSr",
-                    "target_coords": "(0.5, +0.1.245, -4.0)",
+                    "target_coords": "(0.5, +1.245, -4.0)",
                     "actual_loc": "",
                     "actual_coords": "",
                     "adjust_loc": "",
@@ -82641,7 +82641,7 @@
                 },
                 {
                     "target_loc": "LSr",
-                    "target_coords": "(0.5, +0.1.245, -4.0)",
+                    "target_coords": "(0.5, +1.245, -4.0)",
                     "actual_loc": "",
                     "actual_coords": "",
                     "adjust_loc": "",
