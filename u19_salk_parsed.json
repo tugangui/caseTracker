@@ -25152,7 +25152,7 @@
     },
     "SW210520-06": {
         "case_name": "SW210520-06",
-        "notes": "\ncase_col_notes: Q3 20201 (progress report due 10.07.2021)\ncase_col_notes: 8 triple anterograde; 13 quadruple retrograde",
+        "notes": "\ncase_col_notes: Q3 2021 (progress report due 10.07.2021)\ncase_col_notes: 8 triple anterograde; 13 quadruple retrograde",
         "surgery": {
             "planned_for": "",
             "surgeon": "",
@@ -26293,8 +26293,8 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
             "sectioning_tech": ""
         },
@@ -26382,8 +26382,8 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
             "sectioning_tech": ""
         },
@@ -26471,8 +26471,8 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
             "sectioning_tech": ""
         },
@@ -26560,10 +26560,10 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-9",
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
@@ -26649,10 +26649,10 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-9",
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
@@ -26738,10 +26738,10 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-9",
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
@@ -26827,10 +26827,10 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-9",
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
@@ -26916,10 +26916,10 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-9",
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
@@ -27564,10 +27564,10 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-9",
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
@@ -53510,7 +53510,7 @@
     },
     "SW210312-06": {
         "case_name": "SW210312-06",
-        "notes": "\nsectioning_date: 04/05/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Easystore VS120 external hard drive H:\\DataDrive 2\\Ellen\\U19 Salk\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\nsurgeon: Lin\nplane: c\nthickness: 50\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nunfinished planning\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)",
+        "notes": "\nsectioning_date: 04/05/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Easystore VS120 external hard drive H:\\DataDrive 2\\Ellen\\U19 Salk\ncase_col_notes: Ellen planned for Lin\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 9 June 2021\nstaining_tech: Ellen\nmounting_date: 14 June 2021\nmounting_tech: Ellen\nvsi_path: H/easystore/Ellen/U19SalkTRIOcases/SW210517-01A\ncase_col_notes: Ellen planned for Lin\nsurgeon: Lin\nplane: c\nthickness: 50\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nunfinished planning\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "AAV1.CAG.FLEX.tdTomato.WPRE.bGH",
@@ -53924,7 +53924,7 @@
     },
     "SW210517-01": {
         "case_name": "SW210517-01",
-        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 9 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 9 June 2021\nstaining_tech: Ellen\nmounting_date: 14 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210517-02A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54203,22 +54203,22 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "",
+            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210517-03A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -54357,22 +54357,22 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "",
+            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210517-04A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -54384,7 +54384,7 @@
     },
     "SW210518-01": {
         "case_name": "SW210518-01",
-        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 9 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210518-02A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54433,22 +54433,22 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "",
+            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210518-01A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -54460,7 +54460,7 @@
     },
     "SW210518-02": {
         "case_name": "SW210518-02",
-        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210518-03A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54614,7 +54614,7 @@
     },
     "SW210518-03": {
         "case_name": "SW210518-03",
-        "notes": "\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210518-04A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54893,22 +54893,22 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "",
+            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210524-01A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -55047,22 +55047,22 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "",
+            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210524-02A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -55123,22 +55123,22 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "",
+            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210524-03A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -55277,19 +55277,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_tech": "ellen"
         },
         "image_process": {
             "vsi_path": "",
@@ -55353,15 +55353,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
@@ -55507,15 +55507,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
@@ -55583,15 +55583,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
@@ -55737,15 +55737,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
@@ -55813,15 +55813,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
@@ -55967,15 +55967,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "inga"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
@@ -56043,15 +56043,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
@@ -56548,15 +56548,15 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
+            "plane": "C",
+            "thickness": "100",
             "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_tech": "ellen"
         },
         "stain": {
             "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_tech": "ellen",
+            "immunostained_for": "Ms anti-cre 1:4K"
         },
         "mount": {
             "mounting_date": null,
