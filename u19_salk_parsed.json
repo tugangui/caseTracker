@@ -22558,7 +22558,7 @@
     },
     "SW210126-01": {
         "case_name": "SW210126-01",
-        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru",
+        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru\nmounting_date: 3/8/2021\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -22647,7 +22647,7 @@
     },
     "SW210126-02": {
         "case_name": "SW210126-02",
-        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru",
+        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru\nmounting_date: 3/8/2021\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -22736,7 +22736,7 @@
     },
     "SW210126-03": {
         "case_name": "SW210126-03",
-        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru",
+        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru\nmounting_date: 3/8/2021\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -22825,7 +22825,7 @@
     },
     "SW210126-04": {
         "case_name": "SW210126-04",
-        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru",
+        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/01/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/01/2021\nstaining_tech: Ru\nmounting_date: 3/8/2021\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -22914,7 +22914,7 @@
     },
     "SW210128-01": {
         "case_name": "SW210128-01",
-        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nimmunostained_for: PHAL-D&R488",
+        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/02/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/08/2021\nstaining_tech: Ru\nmounting_date: 3/14/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23003,7 +23003,7 @@
     },
     "SW210128-02": {
         "case_name": "SW210128-02",
-        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nimmunostained_for: PHAL-D&R488",
+        "notes": "\ncase_col_notes: Houri planned for DP project\nplane: C\nthickness: 100\nsectioning_date: 03/02/2021\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R488\nstaining_date: 03/08/2021\nstaining_tech: Ru\nmounting_date: 3/14/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23092,7 +23092,7 @@
     },
     "SW210128-03": {
         "case_name": "SW210128-03",
-        "notes": "\ncase_col_notes: Houri planned for LA\nplane: C\nthickness: 100\nimmunostained_for: CRE-D&M488",
+        "notes": "\ncase_col_notes: Houri planned for LA\nplane: C\nthickness: 100\nsectioning_date: 03/02/2021\nsectioning_tech: Ru\nimmunostained_for: CRE-D&M488\nstaining_date: 03/08/2021\nstaining_tech: Ru\nmounting_date: 3/14/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23181,7 +23181,7 @@
     },
     "SW210128-04": {
         "case_name": "SW210128-04",
-        "notes": "\ncase_col_notes: Houri planned for LA\nplane: C\nthickness: 100\nimmunostained_for: CRE-D&M488",
+        "notes": "\ncase_col_notes: Houri planned for LA\nplane: C\nthickness: 100\nsectioning_date: 03/02/2021\nsectioning_tech: Ru\nimmunostained_for: CRE-D&M488\nstaining_date: 03/08/2021\nstaining_tech: Ru\nmounting_date: 3/14/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23270,7 +23270,7 @@
     },
     "SW210303-01": {
         "case_name": "SW210303-01",
-        "notes": "\nvsi_path: BMAP/UCLA SCANS/U19 CSHL",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 3/9/21\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R647\nstaining_date: 3/14/21\nstaining_tech: Ru\nmounting_date: 3/14/21\nmounting_tech: Ru\nvsi_path: BMAP/UCLA SCANS/U19 CSHL",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23487,7 +23487,7 @@
     },
     "SW210506-01": {
         "case_name": "SW210506-01",
-        "notes": "\ncase_col_notes: Hongwei plan for Lei",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 5/26/21\nsectioning_tech: Inga\nimmunostained_for: PHAL-D&R647\nstaining_date: 5/26/21\nstaining_tech: Ru\nmounting_date: 6/3/21\nmounting_tech: Ru\ncase_col_notes: Hongwei plan for Lei",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23563,7 +23563,7 @@
     },
     "SW210506-02": {
         "case_name": "SW210506-02",
-        "notes": "",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 5/26/21\nsectioning_tech: Inga\nimmunostained_for: PHAL-D&R647\nstaining_date: 5/26/21\nstaining_tech: Ru\nmounting_date: 6/3/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23585,7 +23585,7 @@
                 },
                 {
                     "target_loc": "ENTl",
-                    "target_coords": "(4.25, -4.655, 3.03.5)",
+                    "target_coords": "(4.25, -4.655, 3.5)",
                     "actual_loc": "",
                     "actual_coords": "",
                     "adjust_loc": "",
@@ -23639,7 +23639,7 @@
     },
     "SW210506-03": {
         "case_name": "SW210506-03",
-        "notes": "",
+        "notes": "\nplane: S\nthickness: 100\nsectioning_date: 5/26/21\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R647\nstaining_date: 5/26/21\nstaining_tech: Ru\nmounting_date: 6/1/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23661,7 +23661,7 @@
                 },
                 {
                     "target_loc": "ENTl",
-                    "target_coords": "(4.25, -4.655, 3.03.5)",
+                    "target_coords": "(4.25, -4.655, 3.5)",
                     "actual_loc": "",
                     "actual_coords": "",
                     "adjust_loc": "",
@@ -23715,7 +23715,7 @@
     },
     "SW210506-04": {
         "case_name": "SW210506-04",
-        "notes": "",
+        "notes": "\nplane: S\nthickness: 100\nsectioning_date: 5/26/21\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R647\nstaining_date: 5/26/21\nstaining_tech: Ru\nmounting_date: 6/1/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23737,7 +23737,7 @@
                 },
                 {
                     "target_loc": "ENTl",
-                    "target_coords": "(4.25, -4.655, 3.03.5)",
+                    "target_coords": "(4.25, -4.655, 3.5)",
                     "actual_loc": "",
                     "actual_coords": "",
                     "adjust_loc": "",
@@ -23791,7 +23791,7 @@
     },
     "SW210506-05": {
         "case_name": "SW210506-05",
-        "notes": "",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 5/26/21\nsectioning_tech: Inga\nimmunostained_for: PHAL-D&R647\nstaining_date: 5/26/21\nstaining_tech: Ru\nmounting_date: 6/3/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -23867,7 +23867,7 @@
     },
     "SW210506-06": {
         "case_name": "SW210506-06",
-        "notes": "",
+        "notes": "\nplane: S\nthickness: 100\nsectioning_date: 5/26/21\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R647\nstaining_date: 5/26/21\nstaining_tech: Ru\nmounting_date: 6/1/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -24019,7 +24019,7 @@
     },
     "SW210507-02": {
         "case_name": "SW210507-02",
-        "notes": "",
+        "notes": "\nplane: C\nthickness: 100",
         "surgery": {
             "planned_for": "",
             "surgeon": "",
@@ -24451,7 +24451,7 @@
     },
     "SW210303-03": {
         "case_name": "SW210303-03",
-        "notes": "\nvsi_path: BMAP/UCLA SCANS/U19 CSHL",
+        "notes": "\nvsi_path: BMAP/UCLA SCANS/U19 CSHL\nplane: C\nthickness: 100\nsectioning_date: 3/9/21\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R647\nstaining_date: 3/14/21\nstaining_tech: Ru\nmounting_date: 3/14/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -24540,7 +24540,7 @@
     },
     "SW210315-02": {
         "case_name": "SW210315-02",
-        "notes": "\nvsi_path: BMAP/UCLA SCANS/U19 CSHL",
+        "notes": "\nvsi_path: BMAP/UCLA SCANS/U19 CSHL\nplane: C\nthickness: 100\nsectioning_date: 3/30/21\nsectioning_tech: Ru\nimmunostained_for: PHAL-D&R647\nstaining_date: 3/30/21\nstaining_tech: Ru\nmounting_date: 4/13/21\nmounting_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -24896,7 +24896,7 @@
     },
     "SW210421-04": {
         "case_name": "SW210421-04",
-        "notes": "\nQuadruple retrograde\nplane: Yian\nthickness: 100um\ncase_col_notes: Hongwei planned for Lei\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: Hongwei planned for Lei\ntrio_col_notes: Quadruple retrograde\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/8/21\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
+        "notes": "\nQuadruple retrograde\nplane: Yian\nthickness: 100um\ncase_col_notes: Hongwei planned for Lei\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: Hongwei planned for Lei\ntrio_col_notes: Quadruple retrograde\ncase_col_notes: for LS/MEA/BST project\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/8/21\nplane: C\nthickness: 100\nsectioning_date: 6/10/21\nsectioning_tech: Ru\nmounting_date: 6/16/21\nmounting_tech: Ru\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "Lei",
@@ -25063,7 +25063,7 @@
     },
     "SW210520-05": {
         "case_name": "SW210520-05",
-        "notes": "\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/8/21\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
+        "notes": "\ncase_col_notes: ***Nick and Houri will plan***\nsurgeon: Lei\nperfusion_date: 6/8/21\nplane: C\nthickness: 100\nsectioning_date: 6/10/21\nsectioning_tech: Ru\nmounting_date: 6/16/21\nmounting_tech: Ru\ncase_col_notes: NOTE tracers: 2 ant and 2 retrograde",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -25254,7 +25254,7 @@
     },
     "SW210507-03": {
         "case_name": "SW210507-03",
-        "notes": "\ncase_col_notes: Hongwei planed for Lei",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/1/21\nstaining_tech: Ru\ncase_col_notes: Hongwei planed for Lei",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25330,7 +25330,7 @@
     },
     "SW210507-04": {
         "case_name": "SW210507-04",
-        "notes": "",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/1/21\nstaining_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25406,7 +25406,7 @@
     },
     "SW210509-01": {
         "case_name": "SW210509-01",
-        "notes": "",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/3/21\nstaining_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25482,7 +25482,7 @@
     },
     "SW210509-02": {
         "case_name": "SW210509-02",
-        "notes": "",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/3/21\nstaining_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25558,7 +25558,7 @@
     },
     "SW210509-03": {
         "case_name": "SW210509-03",
-        "notes": "",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/3/21\nstaining_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25634,7 +25634,7 @@
     },
     "SW210509-04": {
         "case_name": "SW210509-04",
-        "notes": "",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/3/21\nstaining_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25710,7 +25710,7 @@
     },
     "SW210509-05": {
         "case_name": "SW210509-05",
-        "notes": "",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/3/21\nstaining_tech: Ru",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25786,7 +25786,7 @@
     },
     "SW210509-06": {
         "case_name": "SW210509-06",
-        "notes": "\ncase_col_notes: Hongwei planned",
+        "notes": "\nimmunostained_for: PHAL-D&R647\nstaining_date: 6/3/21\nstaining_tech: Ru\nmounting_date: 06/16/21\nmounting_tech: Inga\ncase_col_notes: Hongwei planned",
         "surgery": {
             "planned_for": "lei",
             "surgeon": "lei",
@@ -25937,19 +25937,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-2",
+            "sectioning_tech": "ru"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-4",
+            "staining_tech": "ru",
+            "immunostained_for": "Nissal"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-6-7",
+            "mounting_tech": "ru"
         },
         "image_process": {
             "vsi_path": "",
@@ -26026,19 +26026,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "21-6-2",
+            "sectioning_tech": "ru"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-4",
+            "staining_tech": "ru",
+            "immunostained_for": "Nissal"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-6-7",
+            "mounting_tech": "ru"
         },
         "image_process": {
             "vsi_path": "",
@@ -26121,13 +26121,13 @@
             "sectioning_tech": ""
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-4",
+            "staining_tech": "ru",
+            "immunostained_for": "Nissal"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-6-8",
+            "mounting_tech": "ru"
         },
         "image_process": {
             "vsi_path": "",
@@ -26210,13 +26210,13 @@
             "sectioning_tech": ""
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-4",
+            "staining_tech": "ru",
+            "immunostained_for": "Nissal"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-6-8",
+            "mounting_tech": "ru"
         },
         "image_process": {
             "vsi_path": "",
@@ -26295,17 +26295,17 @@
         "section": {
             "plane": "C",
             "thickness": "100",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_date": "21-6-7",
+            "sectioning_tech": "ru"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-8",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-21",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26384,17 +26384,17 @@
         "section": {
             "plane": "C",
             "thickness": "100",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_date": "21-6-7",
+            "sectioning_tech": "ru"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-8",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-21",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26473,17 +26473,17 @@
         "section": {
             "plane": "C",
             "thickness": "100",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "sectioning_date": "21-6-7",
+            "sectioning_tech": "ru"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-8",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-21",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26566,13 +26566,13 @@
             "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-9",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-15",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26655,13 +26655,13 @@
             "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-9",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-15",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26744,13 +26744,13 @@
             "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-9",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-15",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26829,17 +26829,17 @@
         "section": {
             "plane": "C",
             "thickness": "100",
-            "sectioning_date": "21-6-9",
+            "sectioning_date": "21-6-10",
             "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-10",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-14",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26918,17 +26918,17 @@
         "section": {
             "plane": "C",
             "thickness": "100",
-            "sectioning_date": "21-6-9",
+            "sectioning_date": "21-6-10",
             "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-10",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-14",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -26943,10 +26943,10 @@
     },
     "SW210526-09": {
         "case_name": "SW210526-09",
-        "notes": "\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG",
+        "notes": "\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\nsurgeon: Brian\nperfusion_date: 6/1/2020\ncase_col_notes: Completed by Brian\ncase_col_notes: Case #:\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 AAV retro cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple retrograde\ntrio_col_notes: 1 CTb 647\ntrio_col_notes: 2 FG\ntrio_col_notes: 3 CTB 555\ntrio_col_notes: 4 Rabies cre (stained with 488)\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG\ncase_col_notes: Quadruple Retro\ntrio_col_notes: CTb 647 \ntrio_col_notes: AAV retro cre\ntrio_col_notes: CTB 555\ntrio_col_notes: FG",
         "surgery": {
             "planned_for": "lei",
-            "surgeon": "lei",
+            "surgeon": "Brian",
             "perfusion_date": "21-6-4",
             "strategy": "",
             "injections": [
@@ -26986,6 +26986,877 @@
                     "quality": "",
                     "tracer": {
                         "name": "FG",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "DN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "IP",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "FN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "DN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "IP",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "DN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "FN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "DN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "IP",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "DN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "FN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "IP",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "IP",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "FN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "none",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "PHAL",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "DN",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-RFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "IP",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": "AAV-GFP",
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
+                        "notes": ""
+                    }
+                },
+                {
+                    "target_loc": "",
+                    "target_coords": "",
+                    "actual_loc": "",
+                    "actual_coords": "",
+                    "adjust_loc": "",
+                    "adjust_coords": "",
+                    "quality": "",
+                    "tracer": {
+                        "name": null,
                         "notes": ""
                     }
                 },
@@ -27566,17 +28437,17 @@
         "section": {
             "plane": "C",
             "thickness": "100",
-            "sectioning_date": "21-6-9",
+            "sectioning_date": "21-6-10",
             "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "21-6-10",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "21-06-14",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -53282,7 +54153,7 @@
     },
     "SW210312-03": {
         "case_name": "SW210312-03",
-        "notes": "\nsectioning_date: 04/06/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/19/2021\nmounting_tech: Ru\nvsi_path: Easystore VS120 external hard drive H:\\DataDrive 2\\Ellen\\U19 Salk\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nsectioning_date: 04/06/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/19/2021\nmounting_tech: Ru\nvsi_path: Z:/Scans/U19Salk/SW210312-03A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -53358,7 +54229,7 @@
     },
     "SW210312-04": {
         "case_name": "SW210312-04",
-        "notes": "\nsectioning_date: 04/06/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Easystore VS120 external hard drive H:\\DataDrive 2\\Ellen\\U19 Salk\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nsectioning_date: 04/06/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Z:/Scans/U19Salk/SW210312-04A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -53434,7 +54305,7 @@
     },
     "SW210312-05": {
         "case_name": "SW210312-05",
-        "notes": "\nsectioning_date: 04/05/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Easystore VS120 external hard drive H:\\DataDrive 2\\Ellen\\U19 Salk\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nsectioning_date: 04/05/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Z:/Scans/U19Salk/SW210312-05A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -53510,7 +54381,7 @@
     },
     "SW210312-06": {
         "case_name": "SW210312-06",
-        "notes": "\nsectioning_date: 04/05/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Easystore VS120 external hard drive H:\\DataDrive 2\\Ellen\\U19 Salk\ncase_col_notes: Ellen planned for Lin\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 9 June 2021\nstaining_tech: Ellen\nmounting_date: 14 June 2021\nmounting_tech: Ellen\nvsi_path: H/easystore/Ellen/U19SalkTRIOcases/SW210517-01A\ncase_col_notes: Ellen planned for Lin\nsurgeon: Lin\nplane: c\nthickness: 50\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nunfinished planning\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)",
+        "notes": "\nsectioning_date: 04/05/2021\nsectioning_tech: Ru\nimmunostained_for: cre-647\nstaining_date: 04/06/2021\nstaining_tech: Ru\nmounting_date: 04/20/2021\nmounting_tech: Ru\nvsi_path: Z:/Scans/U19Salk/SW210316-06A\ncase_col_notes: Ellen planned for Lin\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 9 June 2021\nstaining_tech: Ellen\nmounting_date: 14 June 2021\nmounting_tech: Ellen\nvsi_path: Z:/Scans/U19Salk/SW210517-01A\ncase_col_notes: Ellen planned for Lin\nsurgeon: Lin\nplane: c\nthickness: 50\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nunfinished planning\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CMV.PI.Cre.rBG\nperfusion_date: 1. AUDv 71 (4.625,-1.655,-3.125)\nsurgeon: AAV1.CAG.FLEX.eGFP.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)\nsurgeon: AAV1.CAG.FLEX.tdTomato.WPRE.bGH\nperfusion_date: 2. DP 38 (0.25, 1.645, -3.5)",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "AAV1.CAG.FLEX.tdTomato.WPRE.bGH",
@@ -53924,7 +54795,7 @@
     },
     "SW210517-01": {
         "case_name": "SW210517-01",
-        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 9 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 9 June 2021\nstaining_tech: Ellen\nmounting_date: 14 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210517-02A\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 9 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 9 June 2021\nstaining_tech: Ellen\nmounting_date: 14 June 2021\nmounting_tech: Ellen\nvsi_path: Z:/Scans/U19Salk/SW210517-02A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54218,7 +55089,7 @@
             "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210517-03A",
+            "vsi_path": "Z:/Scans/U19Salk/SW210517-03A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -54372,7 +55243,7 @@
             "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210517-04A",
+            "vsi_path": "Z:/Scans/U19Salk/SW210517-04A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -54384,7 +55255,7 @@
     },
     "SW210518-01": {
         "case_name": "SW210518-01",
-        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 9 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210518-02A\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 9 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: Z:/Scans/U19Salk/SW210518-02A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54448,7 +55319,7 @@
             "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210518-01A",
+            "vsi_path": "Z:/Scans/U19Salk/SW210518-01A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -54460,7 +55331,7 @@
     },
     "SW210518-02": {
         "case_name": "SW210518-02",
-        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210518-03A\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\ncase_col_notes: Ellen planned for Lin\ncase_col_notes: Ellen planned for Lin\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: Z:/Scans/U19Salk/SW210518-03A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54614,7 +55485,7 @@
     },
     "SW210518-03": {
         "case_name": "SW210518-03",
-        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: H:/easystore/Ellen/U19SalkTRIOcases/SW210518-04A\ncase_col_notes: Ellen planned for Lin",
+        "notes": "\nplane: C\nthickness: 100\nsectioning_date: 8 June 2021\nsectioning_tech: Ellen\nimmunostained_for: Ms anti-cre 1:4K\nstaining_date: 8 June 2021\nstaining_tech: Ellen\nmounting_date: 15 June 2021\nmounting_tech: Ellen\nvsi_path: Z:/Scans/U19Salk/SW210518-04A\ncase_col_notes: Ellen planned for Lin",
         "surgery": {
             "planned_for": "lin",
             "surgeon": "lin",
@@ -54908,7 +55779,7 @@
             "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210524-01A",
+            "vsi_path": "Z:/Scans/U19Salk/SW210524-01A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -55062,7 +55933,7 @@
             "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210524-02A",
+            "vsi_path": "Z:/Scans/U19Salk/SW210524-02A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -55138,7 +56009,7 @@
             "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "H:/easystore/Ellen/U19SalkTRIOcases/SW210524-03A",
+            "vsi_path": "Z:/Scans/U19Salk/SW210524-03A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -55292,7 +56163,7 @@
             "mounting_tech": "ellen"
         },
         "image_process": {
-            "vsi_path": "",
+            "vsi_path": "Z:/Scans/U19Salk/SW210524-04A",
             "osp_path": "",
             "image_tech": "",
             "dimension": "",
@@ -79593,7 +80464,7 @@
     },
     "SW210325-06": {
         "case_name": "SW210325-06",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 3/26/21\ncase_col_notes: For Joel\ncase_col_notes: Injection sites test",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 3/26/21\nplane: C\nthickness: 100\nsectioning_date: 3/29/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 3/29/21\nstaining_tech: Ru\nmounting_date: 3/31/21\nmounting_tech: Ru\ncase_col_notes: For Joel\ncase_col_notes: Injection sites test",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -79682,7 +80553,7 @@
     },
     "SW210325-07": {
         "case_name": "SW210325-07",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 3/26/21\ncase_col_notes: For Joel\ncase_col_notes: Injection sites test",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 3/26/21\nplane: C\nthickness: 100\nsectioning_date: 3/29/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 3/29/21\nstaining_tech: Ru\nmounting_date: 3/31/21\nmounting_tech: Ru\ncase_col_notes: For Joel\ncase_col_notes: Injection sites test",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -79771,7 +80642,7 @@
     },
     "SW210325-08": {
         "case_name": "SW210325-08",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 3/26/21\ncase_col_notes: For Joel\ncase_col_notes: Injection sites test",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 3/26/21\nplane: C\nthickness: 100\nsectioning_date: 3/29/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 3/29/21\nstaining_tech: Ru\nmounting_date: 3/31/21\nmounting_tech: Ru\ncase_col_notes: For Joel\ncase_col_notes: Injection sites test",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -79860,7 +80731,7 @@
     },
     "SW210402-01": {
         "case_name": "SW210402-01",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nplane: C\nthickness: 100\nsectioning_date: 4/26/21\nsectioning_tech: Ru\nimmunostained_for: Cre&647\nstaining_date: 4/26/21\nstaining_tech: Ru\nmounting_date: 4/30/21\nmounting_tech: Ru\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -79949,7 +80820,7 @@
     },
     "SW210402-02": {
         "case_name": "SW210402-02",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nplane: C\nthickness: 100\nsectioning_date: 4/26/21\nsectioning_tech: Ru\nimmunostained_for: Cre&647\nstaining_date: 4/26/21\nstaining_tech: Ru\nmounting_date: 4/30/21\nmounting_tech: Ru\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80038,7 +80909,7 @@
     },
     "SW210402-03": {
         "case_name": "SW210402-03",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nplane: C\nthickness: 100\nsectioning_date: 4/26/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 4/27/21\nstaining_tech: Ru\nmounting_date: 4/27/21\nmounting_tech: Ru\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80127,7 +80998,7 @@
     },
     "SW210402-04": {
         "case_name": "SW210402-04",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nplane: C\nthickness: 100\nsectioning_date: 4/26/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 4/27/21\nstaining_tech: Ru\nmounting_date: 4/27/21\nmounting_tech: Ru\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80216,7 +81087,7 @@
     },
     "SW210402-05": {
         "case_name": "SW210402-05",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nplane: C\nthickness: 100\nsectioning_date: 4/26/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 4/27/21\nstaining_tech: Ru\nmounting_date: 4/29/21\nmounting_tech: Ru\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80305,7 +81176,7 @@
     },
     "SW210402-06": {
         "case_name": "SW210402-06",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/23/2021\nplane: C\nthickness: 100\nsectioning_date: 4/26/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 4/27/21\nstaining_tech: Ru\nmounting_date: 4/29/21\nmounting_tech: Ru\nvsi_path: BMAP/UCLA SCANS/MCP\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80394,7 +81265,7 @@
     },
     "SW210406-03": {
         "case_name": "SW210406-03",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/27/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/27/2021\nplane: C\nthickness: 100\nsectioning_date: 5/3/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/3/21\nstaining_tech: Ru\nmounting_date: 5/10/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80483,7 +81354,7 @@
     },
     "SW210406-04": {
         "case_name": "SW210406-04",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/27/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/27/2021\nplane: C\nthickness: 100\nsectioning_date: 5/3/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/3/21\nstaining_tech: Ru\nmounting_date: 5/10/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80572,7 +81443,7 @@
     },
     "SW210408-01": {
         "case_name": "SW210408-01",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\nplane: C\nthickness: 100\nsectioning_date: 5/4/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/5/21\nstaining_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80661,7 +81532,7 @@
     },
     "SW210408-02": {
         "case_name": "SW210408-02",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\nplane: C\nthickness: 100\nsectioning_date: 5/4/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/5/21\nstaining_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80750,7 +81621,7 @@
     },
     "SW210408-03": {
         "case_name": "SW210408-03",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\nplane: C\nthickness: 100\nsectioning_date: 5/5/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/5/21\nstaining_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80839,7 +81710,7 @@
     },
     "SW210408-04": {
         "case_name": "SW210408-04",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\nplane: C\nthickness: 100\nsectioning_date: 5/5/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/5/21\nstaining_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -80928,7 +81799,7 @@
     },
     "SW210408-05": {
         "case_name": "SW210408-05",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\nplane: C\nthickness: 100\nsectioning_date: 5/4/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/5/21\nstaining_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81017,7 +81888,7 @@
     },
     "SW210408-06": {
         "case_name": "SW210408-06",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 4/30/2021\nplane: C\nthickness: 100\nsectioning_date: 5/4/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/5/21\nstaining_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81106,7 +81977,7 @@
     },
     "SW210414-01": {
         "case_name": "SW210414-01",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/11/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/12/21\nstaining_tech: Ru\nmounting_date: 5/17/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81195,7 +82066,7 @@
     },
     "SW210414-02": {
         "case_name": "SW210414-02",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/11/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/12/21\nstaining_tech: Ru\nmounting_date: 5/17/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81284,7 +82155,7 @@
     },
     "SW210414-03": {
         "case_name": "SW210414-03",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/11/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/12/21\nstaining_tech: Ru\nmounting_date: 5/18/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81373,7 +82244,7 @@
     },
     "SW210414-04": {
         "case_name": "SW210414-04",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/12/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/12/21\nstaining_tech: Ru\nmounting_date: 5/18/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81462,7 +82333,7 @@
     },
     "SW210414-05": {
         "case_name": "SW210414-05",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/12/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/13/21\nstaining_tech: Ru\nmounting_date: 5/18/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81551,7 +82422,7 @@
     },
     "SW210414-06": {
         "case_name": "SW210414-06",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/12/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/13/21\nstaining_tech: Ru\nmounting_date: 5/19/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81640,7 +82511,7 @@
     },
     "SW210414-07": {
         "case_name": "SW210414-07",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/12/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/13/21\nstaining_tech: Ru\nmounting_date: 5/19/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -81729,7 +82600,7 @@
     },
     "SW210414-08": {
         "case_name": "SW210414-08",
-        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\ncase_col_notes: For Joel",
+        "notes": "\nsurgeon: Lei\nperfusion_date: 5/5/2021\nplane: C\nthickness: 100\nsectioning_date: 5/12/21\nsectioning_tech: Ru\nimmunostained_for: Nissal\nstaining_date: 5/13/21\nstaining_tech: Ru\nmounting_date: 5/19/21\nmounting_tech: Ru\ncase_col_notes: For Joel",
         "surgery": {
             "planned_for": "",
             "surgeon": "Lei",
@@ -83317,19 +84188,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021-06-07",
+            "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "2021-06-11",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-15",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -83406,19 +84277,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021-06-07",
+            "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "2021-06-11",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-15",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -83495,19 +84366,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021-06-07",
+            "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "2021-06-11",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-15",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -83584,19 +84455,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021-06-08",
+            "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "2021-06-11",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-15",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -83673,19 +84544,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021-06-08",
+            "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "2021-06-14",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-16",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -83762,19 +84633,19 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
-            "sectioning_tech": ""
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021-06-08",
+            "sectioning_tech": "inga"
         },
         "stain": {
-            "staining_date": null,
-            "staining_tech": "",
-            "immunostained_for": ""
+            "staining_date": "2021-06-14",
+            "staining_tech": "inga",
+            "immunostained_for": "Nissl"
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-16",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -84207,9 +85078,9 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-6-9",
             "sectioning_tech": ""
         },
         "stain": {
@@ -84218,8 +85089,8 @@
             "immunostained_for": ""
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-17",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -84296,9 +85167,9 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-6-9",
             "sectioning_tech": ""
         },
         "stain": {
@@ -84307,8 +85178,8 @@
             "immunostained_for": ""
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-17",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -84385,9 +85256,9 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-6-9",
             "sectioning_tech": ""
         },
         "stain": {
@@ -84396,8 +85267,8 @@
             "immunostained_for": ""
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-17",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
@@ -84461,9 +85332,9 @@
             ]
         },
         "section": {
-            "plane": null,
-            "thickness": "",
-            "sectioning_date": null,
+            "plane": "C",
+            "thickness": "100",
+            "sectioning_date": "2021Ru-6-9",
             "sectioning_tech": ""
         },
         "stain": {
@@ -84472,8 +85343,8 @@
             "immunostained_for": ""
         },
         "mount": {
-            "mounting_date": null,
-            "mounting_tech": ""
+            "mounting_date": "2021-06-17",
+            "mounting_tech": "inga"
         },
         "image_process": {
             "vsi_path": "",
