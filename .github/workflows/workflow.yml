@@ -23,7 +23,7 @@ jobs:
           pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
       - name: Execute .py script # run the run.py to get the latest data
         run: |
-          python casetracker2.py ./
+          python caseTracker.py ./
 
       - name: Commit files
         id: commit
@@ -31,8 +31,8 @@ jobs:
           git config --global user.name "tugangui"
           git config --global user.email "tugangui@g.ucla.edu"
 
-          git add casetracker.sql 
-          git commit -m "New casetracker.sql"
+          git add *
+          git commit -m "New casetracker SQL file"
           git push
       
       - name: Push file to mysql repo
@@ -46,7 +46,7 @@ jobs:
           destination_folder: '/'
           user_email: 'tugangui@g.ucla.edu'
           user_name: 'tugangui'
-          commit_message: 'New casetracker.sql'
+          commit_message: 'New casetracker SQL file'
       - name: Slack 
         uses: craftech-io/slack-action@v1
         with:
