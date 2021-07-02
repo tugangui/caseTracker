@@ -80,6 +80,9 @@ ID_PATTERN = re.compile(r'[A-Z]{2}[0-9]{6}-[0-9]{2}')
 LOCATION_RE = re.compile(r'^[0-9]?\.?\s?([\w +/_\.\'-]+\b)')
 COORDINATES_RE = re.compile(r'(\((\+?\-?\d+\.?\d*\,? ?)+\))')
 TRACER_RE = re.compile(r'^[0-9]?\.?\s?([\w +/_\.\'-]+\b)')
+LAYERS_RE = re.compile(r'L[0-9]')
+TWO_REGIONS_RE = re.compile(r'[a-zA-Z]+ *\+ *[a-zA-Z]+')
+SAME_AS_RE = re.compile(r'same')
 
 # Values and substitutions
 TECHS = ('ru', 'lei', 'lin', 'marlene', 'stanley', 'sarvia', 'nick', 'danny',
@@ -148,7 +151,21 @@ COLUMNS = {'U19 CSHL': CSHL_COLS, 'U19 Salk Institute': U19_COLS, 'MCP': MCP_COL
 
 SKIPROWS = {'U19 CSHL': 8, 'U19 Salk Institute': 6, 'MCP': 7,
             'Basal Ganglia': 6, 'RF1 (HPF)': 13, 'BLA project': 4}
+query = 'DROP procedure if exists insert_new_structure;DROP PROCEDURE IF EXISTS select_or_insert;'
+query = query + "\nUPDATE araStructures set abbreviation='SSp-ul_1' where abbreviation='SSp_ul_1';UPDATE araStructures set abbreviation='SSp-ul_2/3' where abbreviation='SSp_ul_2/3';UPDATE araStructures set abbreviation='SSp-ul_4' where abbreviation='SSp_ul_4';UPDATE araStructures set abbreviation='SSp-ul_5' where abbreviation='SSp_ul_5';UPDATE araStructures set abbreviation='SSp-ul_6a' where abbreviation='SSp_ul_6a';UPDATE araStructures set abbreviation='SSp-ul_6b' where abbreviation='SSp_ul_6b';"
+query = query + "\nUPDATE araStructures set abbreviation='SSp-bfd_1' where abbreviation='SSp_bfd_1';UPDATE araStructures set abbreviation='SSp-bfd_2/3' where abbreviation='SSp_bfd_2/3';UPDATE araStructures set abbreviation='SSp-bfd_4' where abbreviation='SSp_bfd_4';UPDATE araStructures set abbreviation='SSp-bfd_5' where abbreviation='SSp_bfd_5';UPDATE araStructures set abbreviation='SSp-bfd_6a' where abbreviation='SSp_bfd_6a';UPDATE araStructures set abbreviation='SSp-bfd_6b' where abbreviation='SSp_bfd_6b';"
+query = query + "\nUPDATE araStructures set abbreviation='SSp-ll_1' where abbreviation='SSp_ll_1';UPDATE araStructures set abbreviation='SSp-ll_2/3' where abbreviation='SSp_ll_2/3';UPDATE araStructures set abbreviation='SSp-ll_4' where abbreviation='SSp_ll_4';UPDATE araStructures set abbreviation='SSp-ll_5' where abbreviation='SSp_ll_5';UPDATE araStructures set abbreviation='SSp-ll_6a' where abbreviation='SSp_ll_6a';UPDATE araStructures set abbreviation='SSp-ll_6b' where abbreviation='SSp_ll_6b';"
+query = query + "\nUPDATE araStructures set abbreviation='SSp-m_1' where abbreviation='SSp_m_1';UPDATE araStructures set abbreviation='SSp-m_2/3' where abbreviation='SSp_m_2/3';UPDATE araStructures set abbreviation='SSp-m_4' where abbreviation='SSp_m_4';UPDATE araStructures set abbreviation='SSp-m_5' where abbreviation='SSp_m_5';UPDATE araStructures set abbreviation='SSp-m_6a' where abbreviation='SSp_m_6a';UPDATE araStructures set abbreviation='SSp-m_6b' where abbreviation='SSp_m_6b';"
+query = query + "\nUPDATE araStructures set abbreviation='SSp-n_1' where abbreviation='SSp_n_1';UPDATE araStructures set abbreviation='SSp-n_2/3' where abbreviation='SSp_n_2/3';UPDATE araStructures set abbreviation='SSp-n_4' where abbreviation='SSp_n_4';UPDATE araStructures set abbreviation='SSp-n_5' where abbreviation='SSp_n_5';UPDATE araStructures set abbreviation='SSp-n_6a' where abbreviation='SSp_n_6a';UPDATE araStructures set abbreviation='SSp-n_6b' where abbreviation='SSp_n_6b';"
+query = query + "\nUPDATE araStructures set abbreviation='SSp-tr_1' where abbreviation='SSp_tr_1';UPDATE araStructures set abbreviation='SSp-tr_2/3' where abbreviation='SSp_tr_2/3';UPDATE araStructures set abbreviation='SSp-tr_4' where abbreviation='SSp_tr_4';UPDATE araStructures set abbreviation='SSp-tr_5' where abbreviation='SSp_tr_5';UPDATE araStructures set abbreviation='SSp-tr_6a' where abbreviation='SSp_tr_6a';UPDATE araStructures set abbreviation='SSp-tr_6b' where abbreviation='SSp_tr_6b';"
+query = query + "\nUPDATE araStructures set abbreviation='SSs-1' where abbreviation='SSs_1';UPDATE araStructures set abbreviation='SSs-2/3' where abbreviation='SSs_2/3';UPDATE araStructures set abbreviation='SSs-4' where abbreviation='SSs_4';UPDATE araStructures set abbreviation='SSs-5' where abbreviation='SSs_5';UPDATE araStructures set abbreviation='SSs-6a' where abbreviation='SSs_6a';UPDATE araStructures set abbreviation='SSs-6b' where abbreviation='SSs_6b';"
+query = query + '\ndelimiter $$\ncreate procedure insert_new_structure(structure varchar(255))\nbegin\nIF EXISTS (select id from araStructures where abbreviation COLLATE UTF8_GENERAL_CI LIKE structure)\nTHEN\nupdate araStructures set abbreviation=abbreviation;\nELSE\nINSERT IGNORE INTO araStructures (abbreviation) values(structure);\nEND IF;\nend$$\nDELIMITER ;\n'
 
+def replace_l(ele):
+  if ele != "PL":
+    return ele.replace("L", "_")
+  else:
+    return ele
 
 def prepare_df(df):
     '''
@@ -288,8 +305,59 @@ def get_date_or_none(date_string):
         return None
 
 def get_location(data):
-    loc = LOCATION_RE.search(data) 
-    return loc.groups(0)[0] if loc else ''
+    global query
+    loc = LOCATION_RE.search(data)
+    if loc:
+      result = loc.groups(0)[0]
+    else:
+      result = ''
+    # ABC+ DEF -> ABC+DEF
+
+    result = re.sub('ARA *[0-9]+', '', result)
+    result = re.sub('level', '_', result)
+    result = re.sub('Lvl', '_', result)
+    result = re.sub(' [0-9]{1,2}', '', result)
+    result = re.sub('[0-9]\_[0-9]{1,2}', '', result)
+    result = re.sub('^_[0-9]{2}', '', result)
+    result = re.sub('and', '/', result)
+    result = re.sub('layer', '_', result)
+    result = re.sub('Injection did not work', '', result)
+    result = re.sub("\'", "\\'", result)
+      # insert 
+    if SAME_AS_RE.search(result):
+      result = result.split("same as")[0]
+
+    # \d_\d
+      # lop it off
+    extra = ['contra', 'Ipsi', 'ventral', 'ventro', "lat", 'vent med', 'dorsal lat', 'contral', 'control', 'more', 'med-rost', 'lat-cost', 'med-caud', 'lat-caud', 'contra-', 'ipsi-', 'ipsi lateral', 'controlateral', 'medial', 'lateral', 'dorsal', 'dorso', "pole", 'caudal', 'rostral', 'trunk', 'dorsomedial', 'ventrolateral']
+    extra_tail = ['where', 'deep', 'mid']
+    # where ...
+    # deep ...
+    # mid
+    # same 
+    for e in extra:
+      if e.lower() in result.lower():
+        result = re.sub(e, '', result)
+    for e in extra_tail:
+      if e in result:
+        result = result.split(e)[0]
+    result = re.sub('^_', '', result)
+    if "+" in result:
+      result = result.replace(" ", "")
+      result = result.replace("+","/")
+      query = query + "CALL insert_new_structure('"+result+"');\n"
+    if LAYERS_RE.search(result):
+      if("PL" in result):
+        input_split = re.split('(PL)', result)
+        output_split = list(map(replace_l, input_split))
+        result = "".join(output_split)
+        result = result.replace(" ", "")
+      else:
+        result = result.replace("L", "_")
+        result = result.replace(" ", "")
+      query = query + "CALL insert_new_structure('"+result+"');\n"
+    result = re.sub(" \_ ", "", result)
+    return result
     
 def get_coordinates(data):
     coords = COORDINATES_RE.search(data)
@@ -358,7 +426,7 @@ def get_usernames(argument):
 
 TRACKERS = {}
 
-U01 = parseSheetData('U01')
+U01 = parseSheetData('U01 ')
 U19_Salk = parseSheetData('U19 Salk Institute')
 U19_CSHL = parseSheetData('U19 CSHL')
 MCP = parseSheetData('MCP')
@@ -386,10 +454,16 @@ def get_organism_id(argument):
 
 f = open(OUTPUT_PATH +"/casetracker.sql", "w")
 
-query = "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (17, 'mouse', 'Parvalbumin-Cre', 'transgenic', 'Parvalbumin (PV)', 'These mice selectively express Cre recombinase in PV expressing cells', 'P');\n"
+query = query + "delete from araStructures where abbreviation = 'Scig_b';\n"
+query = query + "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (17, 'mouse', 'Parvalbumin-Cre', 'transgenic', 'Parvalbumin (PV)', 'These mice selectively express Cre recombinase in PV expressing cells', 'P');\n"
 query = query + "INSERT IGNORE INTO organisms (id, species, strain, allele_type, gene_marker, description, code) VALUES (18, 'mouse', 'Vasoactive Intestinal Peptide-Cre', 'transgenic', 'Vasoactive Intestinal Peptide (VIP)', 'These mice selectively express Cre recombinase in VIP expressing cells', 'P');\n"
-query = query + "INSERT INTO users(user_name, email, user_group, is_active) VALUES('Lei Gao', 'LeiGao@mednet.ucla.edu',4, 1 )ON DUPLICATE KEY UPDATE email='LeiGao@mednet.ucla.edu';\n"
-query = query + "CREATE TRIGGER after_injectionSites_insert AFTER INSERT ON injectionSites FOR EACH ROW INSERT INTO injectionSitesLocations(injection_sites_id, types) values(new.id, 'target'), (NEW.id, 'actual');"
+query = query + "INSERT INTO users(login_name, user_name, email, user_group, is_active) VALUES('lgao','Lei Gao', 'LeiGao@mednet.ucla.edu',4, 1 )ON DUPLICATE KEY UPDATE email='LeiGao@mednet.ucla.edu';\n"
+query = query + "INSERT INTO users(login_name, user_name, email, user_group, is_active) VALUES('mbecerra', 'Marlene Becerra', 'mbecerra@loni.usc.edu', 4, 0)ON DUPLICATE KEY UPDATE email='mbecerra@loni.usc.edu';\n"
+query = query + "INSERT INTO users(login_name, user_name, email, user_group, is_active) VALUES('nfoster', 'Nick Foster', 'nnfoster@mednet.ucla.edu',4, 1)ON DUPLICATE KEY UPDATE email='nnfoster@mednet.ucla.edu';\n"
+query = query + "DROP TRIGGER IF EXISTS after_injectionSites_insert;DROP TRIGGER IF EXISTS after_injectionSitesLocations_insert;DROP procedure if exists select_or_insert;"
+query = query + "\ndelimiter $$\ncreate procedure select_or_insert(structure varchar(255), tissuecode varchar(255), typeo varchar(255), ind int)\nbegin\nIF EXISTS (select id from araStructures where abbreviation COLLATE UTF8_GENERAL_CI LIKE structure)\nTHEN\nupdate injectionSitesLocationsARAStructures set ara_structure_id=(SELECT id from araStructures where abbreviation like structure)\nWHERE injection_sites_location_id=(SELECT id from injectionSitesLocations where injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code=tissuecode order by id desc limit ind,1) AND types=typeo);\nELSE\nupdate injectionSitesLocationsARAStructures set ara_structure_id=1\nWHERE injection_sites_location_id=(SELECT id from injectionSitesLocations where injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code=tissuecode order by id desc limit ind,1) AND types=typeo);\nEND IF;\nend$$\nDELIMITER ;\n"
+query = query + "create trigger after_injectionSites_insert after insert on injectionSites for each row insert into injectionSitesLocations(injection_sites_id) values(new.id);"
+query = query + "CREATE TRIGGER after_injectionSitesLocations_insert AFTER INSERT ON injectionSitesLocations FOR EACH ROW INSERT INTO injectionSitesLocationsARAStructures(injection_sites_location_id, ara_structure_id) values(NEW.id,100162);"
 
 for id, info in project.items():
   case_prefix = get_organism_id(id[:2])
@@ -402,30 +476,67 @@ for id, info in project.items():
 
 pattern = r'[\(\)\+ ,]'
 for id, info in project.items():
-  injections = info['surgery']['injections']
+    injections = info['surgery']['injections']
 
-  query = query + "\nINSERT INTO injectionSites (surgery_id) SELECT (SELECT surgeries.id FROM surgeries INNER JOIN tissueDissections td ON surgeries.tissue_dissection_id=td.id WHERE td.tissue_code='" + id + "') AS surgery_id FROM injectionSites WHERE NOT EXISTS(SELECT i.surgery_id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='" + id + "') LIMIT " + str(len(injections)) + ";" 
-  
-  ind = len(injections) - 1
-  for injection in injections:
-    if injection['target_coords'] != '':
-        i = injection['target_coords'].split(",")
-        target_x = re.sub(pattern, '', i[0])
-        target_y = re.sub(pattern, '', i[1])
-        target_z = re.sub(pattern, '', i[2])
-    else:
-        target_x = target_y = target_z = 'NULL'
-    if injection['actual_coords'] != '':
-        i = injection['actual_coords'].split(",")
-        actual_x = re.sub(pattern, '', i[0])
-        actual_y = re.sub(pattern, '', i[1])
-        actual_z = re.sub(pattern, '', i[2])
-    else:
-        actual_x = actual_y = actual_z = 'NULL'
-    query = query + "\nUPDATE injectionSitesLocations set x=" + target_x + ", y=" + target_y + ", z=" + target_z + ", types='target' WHERE injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='"+id+"' order by id desc limit "+str(ind)+",1) AND types='target';"
-    query = query + "\nUPDATE injectionSitesLocations set x=" + actual_x + ", y=" + actual_y + ", z=" + actual_z + ", types='actual' WHERE injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='"+id+"' order by id desc limit "+str(ind)+",1) AND types='actual';"    
-    ind = ind - 1
+    query = query + "\nINSERT INTO injectionSites (surgery_id) SELECT (SELECT surgeries.id FROM surgeries INNER JOIN tissueDissections td ON surgeries.tissue_dissection_id=td.id WHERE td.tissue_code='" + id + "') AS surgery_id FROM injectionSites WHERE NOT EXISTS(SELECT i.surgery_id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='" + id + "') LIMIT " + str(len(injections)) + ";" 
+    ind = len(injections) - 1
+    for injection in injections:
 
-query = query + "\nDROP TRIGGER after_injectionSites_insert;"
+        target_loc = injection['target_loc'].replace(' ', '')
+        target_loc = target_loc.replace('-', '_')
+        target_loc = target_loc.replace('.', '_')
+        if target_loc == 'MOpul':
+            target_loc = "MOp_ul"
+        if target_loc == 'CPint':
+            target_loc = "CP"
+        actual_loc = injection['actual_loc'].replace(' ', '')
+        actual_loc = actual_loc.replace('-', '_')
+        actual_loc = actual_loc.replace('.', '_')
+        if actual_loc == 'MOpul':
+            actual_loc = "MOp_ul"
+        if actual_loc == 'CPint':
+            actual_loc = "CP"
+        end_underscore = re.compile(r'\_$')
+        beg_underscore = re.compile(r'^_')
+        while end_underscore.search(target_loc):
+            target_loc = target_loc[:-1]
+        while end_underscore.search(actual_loc):
+            actual_loc = actual_loc[:-1]
+        while beg_underscore.search(actual_loc):
+            actual_loc = actual_loc[1:]
+        while beg_underscore.search(target_loc):
+            target_loc = target_loc[1:]
+        if injection['target_coords'] != '':
+            i = injection['target_coords'].split(",")
+            target_x = re.sub(pattern, '', i[0])
+            target_y = re.sub(pattern, '', i[1])
+            target_z = re.sub(pattern, '', i[2])
+        else:
+            target_x = target_y = target_z = 'NULL'
+        if injection['actual_coords'] != '':
+            i = injection['actual_coords'].split(",")
+            actual_x = re.sub(pattern, '', i[0])
+            actual_y = re.sub(pattern, '', i[1])
+            actual_z = re.sub(pattern, '', i[2])
+        else:
+            actual_x = actual_y = actual_z = 'NULL'
+        query = query + "\nUPDATE injectionSitesLocations set x=" + target_x + ", y=" + target_y + ", z=" + target_z + ", types='target' WHERE injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='"+id+"' order by id desc limit "+str(ind)+",1) AND types='target';"
+        query = query + "\nUPDATE injectionSitesLocations set x=" + actual_x + ", y=" + actual_y + ", z=" + actual_z + ", types='actual' WHERE injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='"+id+"' order by id desc limit "+str(ind)+",1) AND types='actual';"    
+        # if + insert
+        if target_loc != '':
+            if target_loc != 'CM' and target_loc != 'ECT' and target_loc != 'ect' and target_loc !='cm':
+                query = query + "\nCALL select_or_insert('"+target_loc+"', '"+id+"', 'target',"+str(ind)+");"
+            else:
+                query = query + "\nupdate injectionSitesLocationsARAStructures set ara_structure_id=(SELECT id from araStructures where abbreviation like '"+target_loc+"')\nWHERE injection_sites_location_id=(SELECT id from injectionSitesLocations where injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='"+id+"' order by id desc limit "+str(ind)+",1) AND types='target');"
+
+        if actual_loc != '':
+            if actual_loc != 'CM' and actual_loc != 'ECT' and actual_loc != 'ect' and actual_loc !='cm':
+                query = query + "\nCALL select_or_insert('"+actual_loc+"', '"+id+"', 'actual',"+str(ind)+");"
+            else:
+                query = query + "\nupdate injectionSitesLocationsARAStructures set ara_structure_id=(SELECT id from araStructures where abbreviation like '"+actual_loc+"')\nWHERE injection_sites_location_id=(SELECT id from injectionSitesLocations where injection_sites_id=(SELECT i.id FROM injectionSites i INNER JOIN surgeries s ON i.surgery_id=s.id INNER JOIN tissueDissections td on s.tissue_dissection_id=td.id WHERE td.tissue_code='"+id+"' order by id desc limit "+str(ind)+",1) AND types='actual');"
+
+        ind = ind - 1
+
+query = query + "\nDROP TRIGGER after_injectionSites_insert;DROP TRIGGER after_injectionSitesLocations_insert;DROP PROCEDURE insert_new_structure;DROP PROCEDURE select_or_insert;"
 f.write(query)
 f.close()
