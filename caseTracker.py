@@ -496,6 +496,7 @@ for id, info in project.items():
   if id != '':
     injections = info['surgery']['injections']
     new_injections = []
+# if no injections
     for injection in injections:
       flag = False
       if not injection['target_loc'].isdigit() and len(injection['target_loc']) > 1:
